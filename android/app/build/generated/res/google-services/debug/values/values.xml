@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">978633928551-73bhusrdsusttfaumvfhgodgknh2ss5g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">978633928551</string>
+    <string name="google_api_key" translatable="false">AIzaSyCr7e_oUNpgX_wkedGdiZkjmUg5Jdgp3qw</string>
+    <string name="google_app_id" translatable="false">1:978633928551:android:63970412e8e7b7df8609c2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCr7e_oUNpgX_wkedGdiZkjmUg5Jdgp3qw</string>
+    <string name="google_storage_bucket" translatable="false">gridlex-6e586.appspot.com</string>
+    <string name="project_id" translatable="false">gridlex-6e586</string>
+</resources>
